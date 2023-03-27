@@ -14,6 +14,8 @@ Let's create a timeless educational tale for the next generation of learners...e
 
 [Backend](https://github.com/sreubenstone/The-Nestomir-Digital-Server)–Web server repo for The Nestomir Digital can be found here
 
+Please see our Contributor Agreement & Additional Repository Terms at the bottom of this document.
+
 ![asdf](https://res.cloudinary.com/dshxqbjrf/image/upload/v1675110434/mockup-of-a-little-girl-reading-a-book-a19079_hnk64a.png)
 
 ### What is The Nestomir?
@@ -61,6 +63,6 @@ _Make sure you review the [story outline](https://github.com/sreubenstone/thenes
 - A pull request is a way for a developer (or writer 😉) to suggest changes to a project. By creating a pull request, the developer (or writer) is asking the repository owner (in our case, The Nestomir team) to review and consider incorporating their changes into the main branch of the project.
 - In a git repository, the main branch often represents the “production” version of the product being built
 
-### Contributor Agreement
+### Contributor Agreement & Additional Repository Terms
 
-This repository is governed by its attached Creative Commons License as well as the terms in this Contributor Agreement. Any contributions you make to the story in this repository can be used by The Nestomir™ team (and any other third party party) in their version of the story (in a commercial or non-commerical setting). There is no obligation to compensate you in any form for your contributions. All contributions made to this repository will also be governed by the Creative Commons CC-BY-4.0 License (this means you are agreeing to put your contributions in the open source domain, which legally means you are providing the public with an irrevocible license to use your work in a commercial or non commercial capacity–see the license attached to this repository for the specific details behind the Creative Commons CC-BY-4.0 license). The Nestomir’s objective is to open up the story for others to participate/modify–however–The Nestomir™ will maintain full rights over our brand name, cover art and branding. This means you agree to not use The Nestomir™ or any variations of The Nestomir™ name or cover art in your distributed works in any commercial or non-commercial capacity.
+This repository is governed by its attached Creative Commons License as well as the terms in this Contributor Agreement. Any contributions you make to the story in this repository can be used by The Nestomir™ team (and any other third party party) in their version of the story (in a commercial or non-commerical setting). There is no obligation to compensate you in any form for your contributions (ever). All contributions made to this repository will also be governed by the Creative Commons CC-BY-4.0 License (this means you are agreeing to put your contributions in the open source domain, which legally means you are providing the public with an irrevocible license to use your work in a commercial or non commercial capacity–see the license attached to this repository for the specific details behind the Creative Commons CC-BY-4.0 license). The Nestomir’s objective is to open up the story for others to participate/modify–however–The Nestomir™ will maintain full rights over our brand name, cover art and branding. This means you agree to not use The Nestomir™ or any variations of The Nestomir™ name or cover art in your distributed works in any commercial or non-commercial capacity.
