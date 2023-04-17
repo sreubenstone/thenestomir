@@ -6,7 +6,7 @@ Let's create a timeless educational tale for the next generation of learners...e
 
 > We put together this effort to bring Americans (and the world) together through creativity and collaboration!
 
-_You can find v 1.000 version of the story on [Amazon](https://www.amazon.com/Nestomir-Part-Strange-Landings/dp/B09JY2XGCR), [iOS](https://apps.apple.com/us/app/the-nestomir-premium/id1553686078), and [Android](https://play.google.com/store/apps/details?id=com.thenestomir.thenestomirapp&hl=en_US&gl=US)._
+_You can find v 1.000 version of the story on [Amazon](https://www.amazon.com/Nestomir-Part-Strange-Landings/dp/B09JY2XGCR), [iOS](https://apps.apple.com/us/app/the-nestomir-premium/id1553686078), and [Android](https://play.google.com/store/apps/details?id=com.thenestomir.thenestomirapp&hl=en_US&gl=US)._ 😺
 
 ### Github Repositories
 
