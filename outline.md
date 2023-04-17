@@ -6,6 +6,8 @@ Jake Addison, a 12-year-old boy, from Grapefield, Wisconsin, is plagued with aca
 
 The story follows Jake through a series of adventures that span North America and Africa. On these escapades Jake is introduced to coding, combat (by learning certain computer science lessons, Jake gains fighting abilities), and the essence of this new galaxy's learning oriented culture. After fighting off alien foes, and meeting interesting contacts from across the universe, including Dendro, a Solar Forces warrior, Jake is transformed; he has an entirely new perspective on how to live life and how to think about learning.
 
+[See an intro video here](https://youtu.be/0nyteN_Usc0)
+
 ---
 
 ### [Prologue](https://github.com/sreubenstone/thenestomir/blob/main/Prologue.md)

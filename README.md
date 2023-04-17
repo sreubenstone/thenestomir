@@ -6,6 +6,8 @@ Let's create a timeless educational tale for the next generation of learners...e
 
 > We put together this effort to bring Americans (and the world) together through creativity and collaboration!
 
+_You can find v 1.000 version of the story on [Amazon](https://www.amazon.com/Nestomir-Part-Strange-Landings/dp/B09JY2XGCR), [iOS](https://apps.apple.com/us/app/the-nestomir-premium/id1553686078), and [Android](https://play.google.com/store/apps/details?id=com.thenestomir.thenestomirapp&hl=en_US&gl=US)._
+
 ### Github Repositories
 
 [Story](https://github.com/sreubenstone/thenestomir)–the entire book manuscript can be found here
@@ -31,8 +33,6 @@ _Make sure you review the [story outline](https://github.com/sreubenstone/thenes
 - We plan on VERSIONING the series (e.g., v1.1, v1.2, as users contribute...our goal is to build a timeless series…one that people read 200 years from now)
 - Earn Perk Points by participating in discussions on web and on discord (1 like from moderator = 1 Perk Point)
 
-[See the offical Rules & Rewards doc](https://docs.google.com/document/d/12luzhhrRYnxpkwq94KIs0MvAgISujhLuVamU0S4sqbg/edit?usp=sharing) to learn more about our community participation details.
-
 ### Contributing
 
 - Submit a pull request to the main branch of _The Nestomir_ or _The Nestomir Digital repositories_ (instructions will go here for writers)
@@ -45,7 +45,7 @@ _Make sure you review the [story outline](https://github.com/sreubenstone/thenes
 - Improve story language, character descriptions, add more pace and tension to story chapters and scenes
 - Anything else your creative mind can imagine! This is why we put this on Github!
 
-> Our [web platform](https://www.thenestomir.com/thenestomir) and [discord](https://discord.gg/thtjVaaq) community are buzzing with conversations and ideas about how to contribute to the book. Please check them out to get started.
+> Our [web platform](https://www.thenestomir.com/thenestomir) and [discord](https://discord.gg/3kujkJGDPq) community are buzzing with conversations and ideas about how to contribute to the book. Please check them out to get started.
 
 ### Contribution Types
 
