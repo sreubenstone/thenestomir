@@ -24,18 +24,17 @@ Please see our Contributor Agreement & Additional Repository Terms at the bottom
 
 The Nestomir is a planetary quest (fantasy novel and companion app) involving a crash-landed alien warrior, a troubled 12-year-old boy, a mysterious learning force permeating the universe and 9 computer science lessons which grant students superpowers. It follows the main character, Jake Addison, through a series of quests which introduce him to computer programming and a new "learn with purpose" learning philosophy. **And now through crowd participation, we're going to improve the the story and social reading driven app experience together.**
 
-_Make sure you review the [story outline](https://github.com/sreubenstone/thenestomir/blob/main/outline.md) to get a better sense of the story and lesson plan. You can also check out the main project page [here](https://www.thenestomir.com)._
+_Make sure you review the [story outline](https://github.com/sreubenstone/thenestomir/blob/main/outline.md) to get a better sense of the story and lesson plan._
 
 ### How it works
 
 - The book's manuscript and the native app (_The Nestomir Digital_) are stored in repositories on GitHub (any accepted pull request will grant you Major Contributor status)
 - _All_ Major Contributors will be listed/profiled in new versions of the book and app
-- We plan on VERSIONING the series (e.g., v1.1, v1.2, as users contribute...our goal is to build a timeless series…one that people read 200 years from now)
 - Earn Perk Points by participating in discussions on web and on discord (1 like from moderator = 1 Perk Point)
 
 ### Contributing
 
-- Submit a pull request to the main branch of _The Nestomir_ or _The Nestomir Digital repositories_ (instructions will go here for writers)
+- Submit a pull request to the main branch of _The Nestomir_ or _The Nestomir Digital repositories_ 
 - If a pull request is accepted, you are awarded Major Contributor status
 - Make sure each pull request corresponds to one contribution type (if you want to make multiple contributions, issue multiple pull requests)
 
